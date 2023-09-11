@@ -1,0 +1,47 @@
+/* styles.css */
+body {
+    font-family: 'Helvetica', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #000000; /* Background color set to black */
+    color: #8f9094; /* Default text color set to white */
+}
+
+header {
+    background-color: #000000; /* Header background color */
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    color: #ffffff; /* Titles (h1, h2, h3) text color */
+    font-weight: bold; /* Titles (h1, h2, h3) font weight set to bold */
+}
+
+section {
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #3ccf91; /* Link color */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #8f9094; /* Set text color to white */
+}
